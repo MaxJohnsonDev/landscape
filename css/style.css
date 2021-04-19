@@ -1,13 +1,15 @@
 * {
-  background-color: rgba(#403d3d, 0.92);
-  color: rgba(0,0,0,0);
   box-sizing: border-box;
 }
 
 body {
-
+  background-color: #403d3d;
+  color: #d27103;
 }
 
+#services-list {
+  display: inline-block;
+}
 
 /* nav menu style */
 .navMenu {
