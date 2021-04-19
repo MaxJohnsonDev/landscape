@@ -1,3 +1,4 @@
+// Image slideshow code
 var slideIndex = 1;
 showSlides(slideIndex);
 
