@@ -5,6 +5,7 @@
 body {
   background-color: #403d3d;
   color: #d27103;
+
 }
 
 #services-list {
@@ -61,8 +62,10 @@ body {
 .main {
   clear:both;
   background:rgba(255,138,30,0.8);
-  width: 500px;
-  margin-left: 150px;
+  width: 700px;
+  height: 500px;
+  margin-left: 50px;
+  padding-left: 150px;
   -moz-border-radius-topright: 12px;
   -moz-border-radius-bottomright: 12px;
   -moz-border-radius-bottomleft: 12px;
@@ -73,13 +76,14 @@ body {
 
 .main h3 {
   text-transform: uppercase;
-  padding: 20px 0 0 20px;
+  padding: 20px;
   color: #eee;
   text-shadow: #000 0px 0px 2px;
 }
 
 .main p {
-  padding-bottom: 20px;
+  padding: 20px;
+
   color: #ddd;
 }
 
